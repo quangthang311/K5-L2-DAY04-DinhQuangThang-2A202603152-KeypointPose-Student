@@ -1,0 +1,65 @@
+{
+ "mssv": "2A202603152",
+ "ten": "DinhQuangThang",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "dqthang311@gmail.com",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000162046.jpg",
+  "000000164659.jpg",
+  "000000241837.jpg",
+  "000000336477.jpg",
+  "000000455536.jpg",
+  "000000122199.jpg",
+  "000000324953.jpg",
+  "000000393909.jpg",
+  "000000043500.jpg",
+  "000000307757.jpg",
+  "000000269462.jpg",
+  "000000130816.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_125051.jpg",
+  "face_141135.jpg",
+  "face_416730.jpg",
+  "face_436791.jpg",
+  "face_81239.jpg",
+  "face_301643.jpg",
+  "face_483667.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-DinhQuangThang"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-DinhQuangThang"
+  },
+  "persons-extra": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-extra-DinhQuangThang"
+  },
+  "faces-extra": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-extra-DinhQuangThang"
+  }
+ },
+ "persons_extra": [
+  "000000254060.jpg",
+  "000000507223.jpg",
+  "000000565600.jpg"
+ ],
+ "faces_extra": [
+  "face_274219.jpg",
+  "face_280788.jpg",
+  "face_300200.jpg",
+  "face_317330.jpg",
+  "face_494518.jpg"
+ ]
+}
